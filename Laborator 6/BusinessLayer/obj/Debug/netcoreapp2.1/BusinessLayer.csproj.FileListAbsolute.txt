@@ -1,0 +1,48 @@
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.deps.json
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csprojAssemblyReference.cache
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CoreCompileInputs.cache
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfoInputs.cache
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfo.cs
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CopyComplete
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.dll
+C:/Faculty/I .NET/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.deps.json
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csprojAssemblyReference.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfoInputs.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfo.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CopyComplete
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.deps.json
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csprojAssemblyReference.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CoreCompileInputs.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfoInputs.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfo.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CopyComplete
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.deps.json
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csprojAssemblyReference.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfoInputs.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.AssemblyInfo.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.csproj.CopyComplete
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/BusinessLayer/obj/Debug/netcoreapp2.1/BusinessLayer.pdb

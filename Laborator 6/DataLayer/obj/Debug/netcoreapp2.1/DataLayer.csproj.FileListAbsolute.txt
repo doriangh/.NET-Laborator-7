@@ -1,0 +1,36 @@
+C:/Faculty/I .NET/Laborator 06/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.deps.json
+C:/Faculty/I .NET/Laborator 06/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+C:/Faculty/I .NET/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csprojAssemblyReference.cache
+C:/Faculty/I .NET/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csproj.CoreCompileInputs.cache
+C:/Faculty/I .NET/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfoInputs.cache
+C:/Faculty/I .NET/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfo.cs
+C:/Faculty/I .NET/Laborator 06/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+C:/Faculty/I .NET/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.dll
+C:/Faculty/I .NET/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.deps.json
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csprojAssemblyReference.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csproj.CoreCompileInputs.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfoInputs.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfo.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.deps.json
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csprojAssemblyReference.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csproj.CoreCompileInputs.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfoInputs.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfo.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.deps.json
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/bin/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csprojAssemblyReference.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csproj.CoreCompileInputs.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfoInputs.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfo.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.pdb

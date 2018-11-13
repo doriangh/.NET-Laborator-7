@@ -1,0 +1,132 @@
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.deps.json
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.runtimeconfig.json
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.runtimeconfig.dev.json
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.Views.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.Views.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/bin/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csprojAssemblyReference.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csproj.CoreCompileInputs.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorAssemblyInfo.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorAssemblyInfo.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.AssemblyInfoInputs.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.AssemblyInfo.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.TagHelpers.input.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.TagHelpers.output.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorCoreGenerate.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Create.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Delete.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Details.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Edit.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/GetAllCities.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Index.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorTargetAssemblyInfo.cache
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorTargetAssemblyInfo.cs
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.Views.pdb
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csproj.CopyComplete
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.dll
+/Users/doriangh/Downloads/Temp-.NET-master/Laborator 06/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.deps.json
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.runtimeconfig.json
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.runtimeconfig.dev.json
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.Views.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.Views.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/DataLayer.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/bin/Debug/netcoreapp2.1/DataLayer.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csprojAssemblyReference.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csproj.CoreCompileInputs.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorAssemblyInfo.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorAssemblyInfo.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.AssemblyInfoInputs.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.AssemblyInfo.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.TagHelpers.input.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.TagHelpers.output.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorCoreGenerate.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Create.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Delete.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Details.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Edit.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/GetAllCities.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Index.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorTargetAssemblyInfo.cache
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorTargetAssemblyInfo.cs
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.Views.pdb
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csproj.CopyComplete
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.dll
+C:/Users/panda/Desktop/Laborator 06 - Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.deps.json
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.runtimeconfig.json
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.runtimeconfig.dev.json
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.Views.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/Laborator 06.Views.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/DataLayer.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/bin/Debug/netcoreapp2.1/DataLayer.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csprojAssemblyReference.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csproj.CoreCompileInputs.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorAssemblyInfo.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorAssemblyInfo.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.AssemblyInfoInputs.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.AssemblyInfo.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.TagHelpers.input.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.TagHelpers.output.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorCoreGenerate.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Create.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Delete.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Details.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Edit.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/GetAllCities.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Cities/Index.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/POIs/Create.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/POIs/Delete.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/POIs/Details.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/POIs/Edit.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/POIs/GetAllPOIs.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/POIs/Index.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorTargetAssemblyInfo.cache
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.RazorTargetAssemblyInfo.cs
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.Views.pdb
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.csproj.CopyComplete
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.dll
+/Users/doriangh/Downloads/Laborator-06-Edit/Laborator 06/obj/Debug/netcoreapp2.1/Laborator 06.pdb
