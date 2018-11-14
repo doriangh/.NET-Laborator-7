@@ -24,11 +24,11 @@ namespace Laborator_7.Controllers
         }
 
         //GET: api/City/5
-//        [HttpGet("{id}", Name = "Get")]
-//        public ActionResult<City> Get(int id)
-//        {
-//            return _repository.GetCity(id);
-//        }
+        [HttpGet("{id}")]
+        public ActionResult<City> Get(int id)
+        {
+            return _repository.GetCity(id);
+        }
 
         // POST: api/City
         [HttpPost]

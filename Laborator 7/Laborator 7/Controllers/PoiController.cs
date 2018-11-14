@@ -24,7 +24,7 @@ namespace Laborator_7.Controllers
         }
 
         // GET: api/Poi/5
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}")]
         public ActionResult<Poi> Get(int id)
         {
             return _repository.GetPoi(id);
