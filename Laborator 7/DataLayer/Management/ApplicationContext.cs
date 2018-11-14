@@ -7,7 +7,7 @@ namespace DataLayer.Management
     public class ApplicationContext : DbContext
     {
         public DbSet<CityData.City> Cities { get; set; }
-        public DbSet<PoiData.Poi> Pois { get; set; }
+        public DbSet<PoiData.Poi> Poi { get; set; }
 
         public ApplicationContext(DbContextOptions options) : base(options)
         {

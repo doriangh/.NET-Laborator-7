@@ -7,44 +7,44 @@ namespace Laborator_7.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CityController : ControllerBase
+    public class ValuesController : ControllerBase
     {
         private readonly ICityRepository _repository;
 
-        public CityController(ICityRepository repository)
+        public ValuesController(ICityRepository repository)
         {
             _repository = repository;
         }
 
-        // GET: api/City
+        // GET api/values
         [HttpGet]
         public ActionResult<List<City>> Get()
         {
             return _repository.GetCities();
         }
 
-        //GET: api/City/5
-//        [HttpGet("{id}", Name = "Get")]
-//        public ActionResult<City> Get(int id)
-//        {
-//            return _repository.GetCity(id);
-//        }
+        // GET api/values/5
+        [HttpGet("{id}")]
+        public ActionResult<City> Get(int id)
+        {
+            return _repository.GetCity(id);
+        }
 
-        // POST: api/City
+        // POST api/values
         [HttpPost]
         public void Post([FromBody] City city)
         {
             _repository.CreateCity(city);
         }
 
-        // PUT: api/City/5
+        // PUT api/values/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] City city)
         {
             _repository.EditCity(id, city);
         }
 
-        // DELETE: api/ApiWithActions/5
+        // DELETE api/values/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {

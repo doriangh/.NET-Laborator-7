@@ -16,20 +16,20 @@ namespace BusinessLayer.Repository
 
         public void CreatePOI(Poi poi)
         {
-            _context.Pois.Add(poi);
+            _context.Poi.Add(poi);
             _context.SaveChanges();
         }
 
         public void RemovePOI(int id)
         {
-            var poiFirst = _context.Pois.First(c => c.PoiId == id);
-            _context.Pois.Remove(poiFirst);
+            var poiFirst = _context.Poi.First(c => c.PoiId == id);
+            _context.Poi.Remove(poiFirst);
             _context.SaveChanges();
         }
 
         public void EditPOI(int id, Poi poi)
         {
-            var dbPOI = _context.Pois.First(c => c.PoiId == id);
+            var dbPOI = _context.Poi.First(c => c.PoiId == id);
             dbPOI.PoiId = poi.PoiId;
             dbPOI.Name = poi.Name;
             dbPOI.Description = poi.Description;
@@ -39,13 +39,13 @@ namespace BusinessLayer.Repository
 
         public Poi GetPoi(int id)
         {
-            var poiFirst = _context.Pois.First(c => c.PoiId == id);
+            var poiFirst = _context.Poi.First(c => c.PoiId == id);
             return poiFirst;
         }
 
         public List<Poi> GetPois()
         {
-            return _context.Pois.ToList();
+            return _context.Poi.ToList();
         }
     }
 }
